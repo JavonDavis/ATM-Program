@@ -1,2 +1,2 @@
 # ATM-Program
-ATM program for my friend.
+ATM program for a friend.
