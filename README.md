@@ -1,2 +1,2 @@
 # ATM-Program
-ATM program for a friend.
+Simple ATM program in C++
